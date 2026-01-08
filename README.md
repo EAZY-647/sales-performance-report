@@ -47,6 +47,7 @@ Data Source: (e.g., Excel/SQL Server - Update this if you know your specific sou
 🚀 How to Use
 
 Click the Live Demo Link.
+https://app.powerbi.com/view?r=eyJrIjoiY2FjN2E0MjktMDYyMy00Zjc5LWExZDgtY2Y3ZTgxZDBiYmZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Use the Slicers on the left (if available) or click on specific charts to filter the data.
 
